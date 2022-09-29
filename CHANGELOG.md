@@ -8,9 +8,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [Unreleased]
 
 ### Added
-- `CHANGELOG.md`
-- `README.md`
-- `requirements.txt`
+- CHANGELOG.md`
+- README.md`
+- requirements.txt`
 - source code: `rlogcli.py` 
 
 [Unreleased]: https://github.com/eduardodsp/rlogcli/releases
