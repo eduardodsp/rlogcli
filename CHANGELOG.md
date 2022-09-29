@@ -5,12 +5,13 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
-## [Unreleased]
+## [1.0.0] - 2022-09-29
 
 ### Added
-- CHANGELOG.md`
-- README.md`
-- requirements.txt`
-- source code: `rlogcli.py` 
+- CHANGELOG.md
+- README.md
+- requirements.txt
+- rlogcli.py
 
 [Unreleased]: https://github.com/eduardodsp/rlogcli/releases
+[1.0.0]: https://github.com/eduardodsp/rlogcli/releases/tag/v1.0.0

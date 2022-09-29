@@ -24,6 +24,7 @@ ip address + port. If successful the client will begin to print all received mes
 ```
 python rlogcli.py -ip 192.168.178.210 -p 8888
 ```
+[![gif with examples][example-link]][example-link]
 
 ### Command Options
 ```
@@ -45,3 +46,4 @@ Arguments -tag and -type are display filters that allows the user to select whic
 
 Argument -o allows the user to write all messages to a plain text file. By desgin all messages are saved to the file, even if display filters are being used. 
 
+[example-link]:   https://github.com/eduardodsp/rlogcli/blob/main/example.gif
