@@ -15,9 +15,9 @@ pip install -r requirements.txt
 ## How To Use
 To use this client all you have to do is run the following command
 ```
-python rlogcli.py -ip <rlog server ip address> -p <user defind tcp port>
+python rlogcli.py -ip <rlog server ip address> -p <user defined tcp port>
 ```
-The client will immediatly start running and will try to connect to the server at the defined
+The client will immediately start running and will try to connect to the server at the defined
 ip address + port. If successful the client will begin to print all received messages in order.
 
 ### Example:
